@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a3e05e12-0a8c-4ba6-8b9e-f240cdec789d"
+      }
+    },
+    "owner": "shannonbit"
   }
 }
